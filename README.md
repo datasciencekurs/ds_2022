@@ -1,2 +1,2 @@
-# ds_01
-Data Science 01
+# ds_2022
+Kurs Data Science 2022
